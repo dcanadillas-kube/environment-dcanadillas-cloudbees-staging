@@ -21,6 +21,7 @@ expose:
   - 4
   config:
     domain: 34.77.108.136.nip.io
+    domain: cbjx.dcanadillas.com
     exposer: Ingress
     http: "true"
 jenkins:
